@@ -1,0 +1,9 @@
+Package: UnicodeTable
+Title: Print DataFrames as Unicode Tables because the ascii table is boring
+Version: 0.1.0
+Authors@R: person("Patrick", "Okwir", email = "career@okwir.com", role = c("aut", "cre"))
+Description: Provides a function to print dataframes and tibbles as formatted Unicode tables with rounded corners and box-drawing characters.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
